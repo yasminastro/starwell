@@ -7,13 +7,13 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Firefly",
+	title: "星之井",
 
 	// 站点副标题
-	subtitle: "Demo site",
+	subtitle: "星星之火，往来井井",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://yasminastro.github.io/starwell/",
 
 	// 站点描述
 	description:
