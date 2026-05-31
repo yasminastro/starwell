@@ -2,9 +2,9 @@
 title: 本命盘案例：爱泼斯坦
 published: 2026-05-13
 description: ''
-image: 'https://github.com/yasminastro/assets/raw/img/2026-05-04-11.41.08.png'
+image: ''
 tags: [占星, 案例分析]
-category: '案例分析'
+category: '灯下星事'
 draft: false
 ---
 
