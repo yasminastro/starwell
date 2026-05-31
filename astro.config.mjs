@@ -47,7 +47,7 @@ if (process.env.NODE_ENV === "development") {
 export default defineConfig({
 	site: siteConfig.site_url,
 
-	base: "/starwell",
+	base: "/",
 	trailingSlash: "always",
 
 	// 图像优化配置
