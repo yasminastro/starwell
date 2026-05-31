@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /_astro/
 
-Sitemap: https://yasminastro.github.io/starwell/sitemap-index.xml
+Sitemap: https://yasminastro.github.io/sitemap-index.xml
