@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "星星之火，往来井井",
 
 	// 站点 URL
-	site_url: "https://yasminastro.github.io/starwell",
+	site_url: "https://yasminastro.github.io",
 
 	// 站点描述
 	description:
