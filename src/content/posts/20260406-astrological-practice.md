@@ -1,5 +1,5 @@
 ---
-title: 20260406-astrological-practice
+title: 师父领进门，修行靠个人 —— 占星学习的实践之道
 published: 2026-04-06
 description: ''
 image: 'https://github.com/yasminastro/assets/raw/img/pexels-genihoka-35766731.jpg'
