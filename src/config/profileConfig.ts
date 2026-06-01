@@ -12,7 +12,7 @@ export const profileConfig: ProfileConfig = {
 	name: "Yasmin",
 
 	// 个人签名
-	bio: "哈喽，我是Yasmin。一名古典占星师、写作者和持续学习者。",
+	bio: "我是一名古典占星师、写作者和持续学习者。",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
