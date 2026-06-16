@@ -9,6 +9,10 @@ category: 灯下星事
 draft: false
 ---
 
+<p style="font-size: 12px; color: #666; text-align: center;">
+    Photo by Tomas Wells on Plexels
+</p>
+
 这一期想跟大家聊一聊我分享占星的一些焦虑和挣扎，想回归一下我分享占星内容的初心。因为每一次做星盘分析，其实对我的消耗比较大，我要花比较多的时间去做一些这种严肃的内容。恰逢最近刚好状态也不是很好，就想放松下来聊一聊最近的一些想法。
 
 预警一下，这期内容完全是闲聊，没有任何干货。
