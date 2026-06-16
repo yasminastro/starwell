@@ -2,7 +2,7 @@
 title: 星盘里的控制欲
 published: 2025-11-11
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/pexels-jeffrey-czum-254391-2501968.jpg
+image: "https://github.com/yasminastro/assets/raw/img/pexels-jeffrey-czum-254391-2501968.jpg"
 tags:
   - 占星
   - 占星学习

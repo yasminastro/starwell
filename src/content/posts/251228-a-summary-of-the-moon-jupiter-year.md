@@ -2,7 +2,7 @@
 title: 一份月木运的年终总结
 published: 2025-12-28
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/pexels-eberhardgross-35229930.jpg
+image: "https://github.com/yasminastro/assets/raw/img/pexels-eberhardgross-35229930.jpg"
 tags:
   - 占星
   - 占星学习

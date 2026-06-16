@@ -2,7 +2,7 @@
 title: 占星界也有自己的期刊？- The Mountain Astrologer
 published: 2024-07-11
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/TMA.png
+image: "https://github.com/yasminastro/assets/raw/img/TMA.png"
 tags:
   - 占星
   - 占星学习

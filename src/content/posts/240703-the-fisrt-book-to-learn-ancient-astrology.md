@@ -2,7 +2,7 @@
 title: 入门古典占星的第一本书（干货满满！）
 published: 2024-07-03
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/WechatIMG9.jpeg
+image: "https://github.com/yasminastro/assets/raw/img/WechatIMG9.jpeg"
 tags:
   - 占星
   - 占星学习

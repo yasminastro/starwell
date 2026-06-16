@@ -2,7 +2,7 @@
 title: 占星学习笔记 - 以自我作为案例
 published: 2024-07-05
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/WechatIMG10.jpeg
+image: "https://github.com/yasminastro/assets/raw/img/WechatIMG10.jpeg"
 tags:
   - 占星
   - 占星学习

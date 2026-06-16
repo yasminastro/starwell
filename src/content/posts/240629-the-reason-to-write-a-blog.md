@@ -2,7 +2,7 @@
 title: 写公众号的初衷
 published: 2024-06-29
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/josh-rangel-aDmYkVd6rs4-unsplash.jpg
+image: "https://github.com/yasminastro/assets/raw/img/josh-rangel-aDmYkVd6rs4-unsplash.jpg"
 tags:
   - 占星
   - 占星学习

@@ -2,7 +2,7 @@
 title: 为什么我不用“土星回归”这个概念
 published: 2026-03-08
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/pexels-kyleloftusstudios-2734424.jpg
+image: "https://github.com/yasminastro/assets/raw/img/pexels-kyleloftusstudios-2734424.jpg"
 tags:
   - 占星
   - 占星学习

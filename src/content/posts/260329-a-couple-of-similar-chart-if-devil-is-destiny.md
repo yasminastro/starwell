@@ -2,7 +2,7 @@
 title: 人性的恶是命中注定还是可以主观选择的？—— 从一对相似盘聊起
 published: 2026-03-29
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/pexels-noe-garde-2150865147-36492599.jpg
+image: "https://github.com/yasminastro/assets/raw/img/pexels-noe-garde-2150865147-36492599.jpg"
 tags:
   - 占星
   - 占星学习

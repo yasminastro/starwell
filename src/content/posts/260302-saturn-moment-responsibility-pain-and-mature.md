@@ -2,7 +2,7 @@
 title: 土星时刻：责任、痛苦与成熟
 published: 2026-03-02
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/pexels-matteo-milan-136935423-13793585.jpg
+image: "https://github.com/yasminastro/assets/raw/img/pexels-matteo-milan-136935423-13793585.jpg"
 tags:
   - 占星
   - 占星学习

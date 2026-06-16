@@ -2,7 +2,7 @@
 title: 我理解的占星命理 —— 让本命占星回归本命
 published: 2026-01-12
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/pexels-diana-kreps-774940399-35508956.jpg
+image: "https://github.com/yasminastro/assets/raw/img/pexels-diana-kreps-774940399-35508956.jpg"
 tags:
   - 占星
   - 占星学习

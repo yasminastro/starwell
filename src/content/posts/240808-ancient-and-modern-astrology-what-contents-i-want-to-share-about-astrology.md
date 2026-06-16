@@ -2,7 +2,7 @@
 title: 聊聊古占与现占，以及我想分享怎样的占星内容（--- 由被拉黑想到的）
 published: 2024-08-08
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/pexels-yvon-gallant-81432586-21337460.jpg
+image: "https://github.com/yasminastro/assets/raw/img/pexels-yvon-gallant-81432586-21337460.jpg"
 tags:
   - 占星
   - 占星学习

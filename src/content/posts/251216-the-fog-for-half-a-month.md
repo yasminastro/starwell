@@ -2,7 +2,7 @@
 title: 笼罩大半个月的迷雾
 published: 2026-04-06
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/IMG_2232.jpg
+image: "https://github.com/yasminastro/assets/raw/img/IMG_2232.jpg"
 tags:
   - 占星
   - 占星学习

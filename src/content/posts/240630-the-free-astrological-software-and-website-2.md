@@ -2,7 +2,7 @@
 title: 聊聊我用过的免费占星软件和网站（下）
 published: 2024-06-30
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/pexels-pavel-danilyuk-7222022.jpg
+image: "https://github.com/yasminastro/assets/raw/img/pexels-pavel-danilyuk-7222022.jpg"
 tags:
   - 占星
   - 占星学习

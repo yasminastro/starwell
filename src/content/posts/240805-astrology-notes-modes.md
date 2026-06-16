@@ -2,7 +2,7 @@
 title: 模式 - 伦占笔记｜以自我为案例
 published: 2024-08-05
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/IMG_6098.png
+image: "https://github.com/yasminastro/assets/raw/img/IMG_6098.png"
 tags:
   - 占星
   - 占星学习

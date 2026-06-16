@@ -2,7 +2,7 @@
 title: 星盘冥想盆和育儿经
 published: 2026-01-19
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/pexels-fotios-photos-1909015.jpg
+image: "https://github.com/yasminastro/assets/raw/img/pexels-fotios-photos-1909015.jpg"
 tags:
   - 占星
   - 占星学习

@@ -2,7 +2,7 @@
 title: 当未来不是命运：三张透特塔罗与一次AI对话实验
 published: 2026-02-22
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/IMG_0489.jpeg
+image: "https://github.com/yasminastro/assets/raw/img/IMG_0489.jpeg"
 tags:
   - 占星
   - AI

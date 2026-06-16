@@ -2,7 +2,7 @@
 title: 来自公元2世纪的花束
 published: 2026-01-07
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/pexels-suhashanjar-34768978.jpg
+image: "https://github.com/yasminastro/assets/raw/img/pexels-suhashanjar-34768978.jpg"
 tags:
   - 占星
   - 占星学习

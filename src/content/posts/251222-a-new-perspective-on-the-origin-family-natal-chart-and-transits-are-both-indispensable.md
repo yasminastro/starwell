@@ -2,7 +2,7 @@
 title: 关于原生家庭的新看法——本命盘和行运缺一不可
 published: 2025-12-22
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/pexels-guillaume-boulanger-2155488149-35055760.jpg
+image: "https://github.com/yasminastro/assets/raw/img/pexels-guillaume-boulanger-2155488149-35055760.jpg"
 tags:
   - 占星
   - 占星学习

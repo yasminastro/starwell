@@ -2,7 +2,7 @@
 title: 聊聊占星届的考证
 published: 2025-10-15
 description: ""
-image:
+image: ""
 tags:
   - 占星
   - 占星学习

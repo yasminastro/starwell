@@ -2,7 +2,7 @@
 title: 致马修·派瑞的钱德勒：群星为他熄灭的那一刻
 published: 2025-10-24
 description: ""
-image:
+image: ""
 tags:
   - 占星
   - 占星学习

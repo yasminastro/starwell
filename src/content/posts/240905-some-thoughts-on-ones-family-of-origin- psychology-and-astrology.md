@@ -2,7 +2,7 @@
 title: 一点关于原生家庭、心理学和占星的思考
 published: 2024-09-05
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/Kafka-transition.jpg
+image: "https://github.com/yasminastro/assets/raw/img/Kafka-transition.jpg"
 tags:
   - 占星
   - 占星学习

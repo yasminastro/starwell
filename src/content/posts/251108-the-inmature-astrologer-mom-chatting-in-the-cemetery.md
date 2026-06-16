@@ -2,7 +2,7 @@
 title: 半吊子占星妈在墓地唠嗑
 published: 2025-11-08
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/WechatIMG1.jpeg
+image: "https://github.com/yasminastro/assets/raw/img/WechatIMG1.jpeg"
 tags:
   - 占星
   - 占星学习

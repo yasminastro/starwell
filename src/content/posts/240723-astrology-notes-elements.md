@@ -2,7 +2,7 @@
 title: 元素 - 伦占笔记｜以自我为案例
 published: 2024-07-23
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/pexels-suvan-chowdhury-37305-167080.jpg
+image: "https://github.com/yasminastro/assets/raw/img/pexels-suvan-chowdhury-37305-167080.jpg"
 tags:
   - 占星
   - 占星学习

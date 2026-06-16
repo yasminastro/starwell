@@ -2,7 +2,7 @@
 title: 一个焦虑的妈妈兼占星师怎么看她孩子的星盘？
 published: 2026-03-23
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/pexels-griselda-belba-173739063-31025743.jpg
+image: "https://github.com/yasminastro/assets/raw/img/pexels-griselda-belba-173739063-31025743.jpg"
 tags:
   - 占星
   - 占星学习

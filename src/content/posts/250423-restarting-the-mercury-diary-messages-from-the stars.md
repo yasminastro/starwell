@@ -2,7 +2,7 @@
 title: 重启水星日记，来自星星的讯息
 published: 2025-04-23
 description: ""
-image:
+image: ""
 tags:
   - 占星
   - 占星学习

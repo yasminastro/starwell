@@ -2,7 +2,7 @@
 title: 我的公众号改名了——「灯下星事」
 published: 2026-02-11
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/pexels-abdullahg-10839549.jpg
+image: "https://github.com/yasminastro/assets/raw/img/pexels-abdullahg-10839549.jpg"
 tags:
   - 占星
   - 占星学习

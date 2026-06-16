@@ -2,7 +2,7 @@
 title: 月火对分下的家庭印记：情绪、愤怒与寻回自我
 published: 2025-05-21
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/pexels-tatiana-yel-2151896660-31915259.jpg
+image: "https://github.com/yasminastro/assets/raw/img/pexels-tatiana-yel-2151896660-31915259.jpg"
 tags:
   - 占星
   - 占星学习

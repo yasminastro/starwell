@@ -2,7 +2,7 @@
 title: 聊聊学占星的心路历程及如何选择合适的老师或流派
 published: 2025-08-15
 description: ""
-image:
+image: ""
 tags:
   - 占星
   - 占星学习

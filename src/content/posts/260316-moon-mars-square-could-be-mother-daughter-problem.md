@@ -2,7 +2,7 @@
 title: 星盘里的月火硬相位可以是母女关系困境？
 published: 2026-03-16
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/pexels-chinar-minar-1265133847-29727067.jpg
+image: "https://github.com/yasminastro/assets/raw/img/pexels-chinar-minar-1265133847-29727067.jpg"
 tags:
   - 占星
   - 占星学习

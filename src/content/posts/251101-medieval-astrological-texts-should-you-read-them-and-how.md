@@ -2,7 +2,7 @@
 title: 由看中世纪古典占星文本想到的——要不要读以及如何读？
 published: 2025-11-01
 description: ""
-image:
+image: ""
 tags:
   - 占星
   - 占星学习

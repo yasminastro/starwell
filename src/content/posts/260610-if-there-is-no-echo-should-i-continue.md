@@ -2,7 +2,7 @@
 title: 如果没有回音，还要不要继续？
 published: 2026-06-10
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/pexels-tomas-wells-30354857-6930803.jpg
+image: "https://github.com/yasminastro/assets/raw/img/pexels-tomas-wells-30354857-6930803.jpg"
 tags:
   - 占星
 category: 灯下星事

@@ -2,7 +2,7 @@
 title: 课瘾犯了 vs 好为人师
 published: 2025-11-18
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/pexels-barry-tan-3603905-5389947.jpg
+image: "https://github.com/yasminastro/assets/raw/img/pexels-barry-tan-3603905-5389947.jpg"
 tags:
   - 占星
   - 占星学习

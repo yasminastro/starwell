@@ -2,7 +2,7 @@
 title: 什么样的水星追求对话语的极致掌控权？
 published: 2025-11-24
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/pexels-rainer-rohtla-2157494180-34754695.jpg
+image: "https://github.com/yasminastro/assets/raw/img/pexels-rainer-rohtla-2157494180-34754695.jpg"
 tags:
   - 占星
   - 占星学习

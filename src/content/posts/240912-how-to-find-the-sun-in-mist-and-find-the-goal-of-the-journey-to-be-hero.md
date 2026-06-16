@@ -2,7 +2,7 @@
 title: 如何追寻迷雾中的太阳，找到英雄之旅的目标
 published: 2024-09-12
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/kristijan-arsov-js09pQAnF9E-unsplash.jpg
+image: "https://github.com/yasminastro/assets/raw/img/kristijan-arsov-js09pQAnF9E-unsplash.jpg"
 tags:
   - 占星
   - 占星学习

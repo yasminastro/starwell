@@ -2,7 +2,7 @@
 title: 警惕占星里的“巧言令色”和“赋魅”
 published: 2026-06-17
 description: ""
-image: https://github.com/yasminastro/assets/raw/img/pexels-floranguyen-37690833.jpg
+image: "https://github.com/yasminastro/assets/raw/img/pexels-floranguyen-37690833.jpg"
 tags:
   - 占星
   - 占星学习
